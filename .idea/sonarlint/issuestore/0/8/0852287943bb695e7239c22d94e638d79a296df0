@@ -1,0 +1,8 @@
+
+o
+java:S1104"RMake meters a static final constant or non-public and provide accessors if needed.(á¬ïÍ8¢ì²³¯1
+s
+java:S1104"VMake percentage a static final constant or non-public and provide accessors if needed.(Ó…•‘8¢ì²³¯1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€Ìóðùÿÿÿÿ8£ì²³¯1
+L	java:S106"+Replace this use of System.out by a logger.(ÑëŒ­øÿÿÿÿ8¸ì²³¯1
+F	java:S106"+Replace this use of System.out by a logger.(™å 8¹ì²³¯1

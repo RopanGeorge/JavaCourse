@@ -1,0 +1,5 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿşâûÿÿÿÿ8Äü’­1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅŒóşÿÿÿÿ8Äü’­1
+Q
+java:S1068"/Remove this unused "birdsPerDay" private field.(Â‚ÍÆüÿÿÿÿ8¢Äü’­1

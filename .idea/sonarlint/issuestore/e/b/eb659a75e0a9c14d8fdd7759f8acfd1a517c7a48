@@ -1,0 +1,28 @@
+
+P
+java:S1121.".Extract the assignment out of this expression.(ş‰ôÿÿÿÿÿ8±‘ÛÇ«1
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ã¾Û¾8²‘ÛÇ«1
+’
+java:S1319'"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(øÏ•‘ùÿÿÿÿ8²‘ÛÇ«1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½°Ì‡úÿÿÿÿ8³‘ÛÇ«1
+d
+java:S1226."BIntroduce a new variable instead of reusing the parameter "index".(ş‰ôÿÿÿÿÿ8´‘ÛÇ«1
+L	java:S106"+Replace this use of System.out by a logger.(¡®ÇÜùÿÿÿÿ8Æ‘ÛÇ«1
+L	java:S106"+Replace this use of System.out by a logger.(ôÅ¶şÿÿÿÿ8Ç‘ÛÇ«1
+L	java:S106"+Replace this use of System.out by a logger.(¡¹—Òøÿÿÿÿ8Ç‘ÛÇ«1
+o	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶£íéùÿÿÿÿ8Ç‘ÛÇ«1
+L	java:S106#"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8É‘ÛÇ«1
+[
+java:S1854."9Remove this useless assignment to local variable "index".(ş‰ôÿÿÿÿÿ8Ë‘ÛÇ«1
+:
+java:S21192"Save and re-use this "Random".(¼İÅf8Ï‘ÛÇ«1
+G	java:S1063"+Replace this use of System.out by a logger.(òŞÌ‹8Ğ‘ÛÇ«1
+G	java:S106Q"+Replace this use of System.out by a logger.(ÇÔ¹ö8Ø‘ÛÇ«1
+L	java:S106U"+Replace this use of System.out by a logger.(Éà‚ıúÿÿÿÿ8Ø‘ÛÇ«1
+G	java:S106V"+Replace this use of System.out by a logger.(Í¼ü8Ù‘ÛÇ«1
+L	java:S106Y"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ù‘ÛÇ«1
+L	java:S106["+Replace this use of System.out by a logger.(Èıˆéúÿÿÿÿ8Ù‘ÛÇ«1
+G	java:S106_"+Replace this use of System.out by a logger.(ÇÔ¹ö8Ú‘ÛÇ«1
+G	java:S106a"+Replace this use of System.out by a logger.(ÇÔ¹ö8Ú‘ÛÇ«1
+G	java:S106c"+Replace this use of System.out by a logger.(ÇÔ¹ö8·êãÇ«1

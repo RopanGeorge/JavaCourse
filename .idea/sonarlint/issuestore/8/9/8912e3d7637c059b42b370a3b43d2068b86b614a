@@ -1,0 +1,19 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½°Ì‡úÿÿÿÿ
+M
+java:S3655!"7Call "Optional#isPresent()" before accessing the value.(ïõÁ²
+E	java:S106"+Replace this use of System.out by a logger.(ÑùÊÊþÿÿÿÿ
+t
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(­ÁÌÿûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(‘ÒøÉøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(­ÎºÊüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(­ÎºÊüÿÿÿÿ
+G
+java:S1481",Remove this unused "element" local variable.(÷¤Ñ´ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(±óÁ´ûÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(‘é•Üûÿÿÿÿ
+@	java:S106!"+Replace this use of System.out by a logger.(ïõÁ²
+@	java:S106#"+Replace this use of System.out by a logger.(†Þ’í
+V	java:S125""<This block of commented-out lines of code should be removed.(Ì˜°€ÿÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
